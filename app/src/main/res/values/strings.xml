@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dictonary</string>
+    <string name="opendrw">Open the drawer</string>
+    <string name="closedrw">Close the drawer</string>
+
+
+</resources>
