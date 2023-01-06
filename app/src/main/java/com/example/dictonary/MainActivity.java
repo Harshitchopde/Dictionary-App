@@ -53,6 +53,8 @@ class MainActivity extends AppCompatActivity {
         initVariable();
         whenFloationButtonClick();
         onNavigationOptionClick();
+        BackgroungThread bgthread = new BackgroungThread();
+        bgthread.execute("https://codeforces.com/api/contest.list?gym=false");
 
 
     }
